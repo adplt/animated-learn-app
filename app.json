@@ -1,4 +1,5 @@
 {
-  "name": "animatedApp",
-  "displayName": "animatedApp"
+  "expo": {
+    "sdkVersion": "27.0.0"
+  }
 }
